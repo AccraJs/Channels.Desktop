@@ -1,0 +1,12 @@
+{
+  "name": "channels-desktop",
+  "productName": "Channels",
+  "identifier": "com.channels.desktop",
+  "description": "Desktop app for Channels",
+  "version": "0.1.0",
+  "author": "Channels <channelsgh@gmail.com>",
+  "main": "background.js",
+  "dependencies": {
+    "fs-jetpack": "^0.7.0"
+  }
+}
